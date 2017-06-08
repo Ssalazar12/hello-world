@@ -1,2 +1,3 @@
 # hello-world
-First Repository
+First Repository Hi
+Currently eating chips. Say, why are avocados suddenly such a big trend?
